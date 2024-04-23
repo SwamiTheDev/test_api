@@ -1,11 +1,9 @@
-{
-  " person": [
-    {
-      "firstname": "John Doe",
-      "lastname": "John Doe",
-      "email": "John Doe",
-      "age": 30,
-      "city": "New York"
-    }
-  ]
-}
+[
+  {
+    "firstname": "John Doe",
+    "lastname": "John Doe",
+    "email": "John Doe",
+    "age": 30,
+    "city": "New York"
+  }
+]
